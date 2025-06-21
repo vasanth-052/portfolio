@@ -1,6 +1,3 @@
-import React from 'react';
-import { TrendingUp } from 'lucide-react';
-
 export const services = [
   {
     title: 'UI/UX Design',
